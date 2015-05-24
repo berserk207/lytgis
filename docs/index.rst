@@ -11,13 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-.. figure:: _static/test.png
-    :align: center
-
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. figure:: _static/test.png
+    :align: center
 
