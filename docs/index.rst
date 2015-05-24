@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+.. figure:: _static/test.png
+    :align: center
 
 Indices and tables
 ==================
