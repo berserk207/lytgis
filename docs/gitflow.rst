@@ -7,5 +7,5 @@ displayed beautifully for the world.
 
 Gitflow Diagram
 ---------------
-.. figure:: _static/images/branches.png
+.. figure:: _static/screenshots/branches.png
     :align: center
