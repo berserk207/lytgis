@@ -12,6 +12,8 @@ Branches Diagram
 	:scale: 75 %
 	:alt: RareJob PH Branch Structure
 	
+	test caption
+	
 develop
 ~~~~~~~
 This is the main branch that contains the changes from the developers. Features are branched from and merged to this branch.
