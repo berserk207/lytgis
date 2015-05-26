@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
    :caption: User Guides
    
+   gitstarter
    gitflow
 
 Indices and tables
