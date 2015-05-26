@@ -1,10 +1,10 @@
-.. Test name documentation master file, created by
+.. RareJob PH Guides documentation master file, created by
    sphinx-quickstart on Thu May 21 20:01:08 2015.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Test name's documentation!
-=====================================
+Welcome to RareJob PH Guides!
+=============================
 
 Contents:
 
@@ -21,6 +21,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. figure:: _static/test.png
-    :align: center
 
