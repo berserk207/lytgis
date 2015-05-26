@@ -13,3 +13,12 @@ Git and SVN differences
 - Merging in Git does not require you to remember the revision you merged from (this benefit was obviated with the release of Subversion 1.5)​
 - Git provides better auditing of branch and merge events​
 - Git's repo file formats are simple, so repair is easy and corruption is rare.​
+
+Git major features over subversion
+----------------------------------
+
+- Distributed Nature​
+- Access Control​
+- Branch Handling
+- Performance (Speed of Operation)​
+- Smaller Space Requirements
