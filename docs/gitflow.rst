@@ -8,9 +8,9 @@ displayed beautifully for the world.
 Branches Diagram
 ----------------
 .. figure:: _static/screenshots/branches.png
-    :align: center
 	:scale: 75 %
 	:alt: RareJob PH Branch Structure
+    :align: center
 	
 	test caption
 	
