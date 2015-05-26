@@ -10,9 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: User Guides
    
-   test
+   gitflow
 
 Indices and tables
 ==================
