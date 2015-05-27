@@ -121,6 +121,43 @@ Committing and Pushing
 Branching
 ---------
 
+.. figure:: _static/branching1.png
+    :align: center		
+
+.. figure:: _static/branching2.png
+    :align: center		
+
+.. figure:: _static/branching3.png
+    :align: center		
+
+.. figure:: _static/branching4.png
+    :align: center		
+
+.. figure:: _static/branching5.png
+    :align: center		
+
+.. figure:: _static/branching6.png
+    :align: center		
+
+.. figure:: _static/branching7.png
+    :align: center		
+
+.. figure:: _static/branching8.png
+    :align: center		
+
+.. figure:: _static/branching9.png
+    :align: center		
+
+.. figure:: _static/branching10.png
+    :align: center		
+	
 Merging
 -------
+
+.. figure:: _static/merging1.png
+    :align: center		
+
+.. figure:: _static/merging2.png
+    :align: center		
+
 	
