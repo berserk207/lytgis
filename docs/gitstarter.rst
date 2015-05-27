@@ -76,14 +76,22 @@ Cloning a new Repository
 Using Tortoisegit
 ~~~~~~~~~~~~~~~~~	
 
+- Go to any folder. Right-click and then select "Git Clone".
+
 .. figure:: _static/tgclone1.png
     :align: center	
+	
+- Provide the URL of the repository to be cloned. (e.g. git@rsds.rarejob.com:app-ph/deborah.git). Don't forget to select the private key you generated earlier as well. It has a *.ppk file extension. 	
 	
 .. figure:: _static/tgclone2.png
     :align: center	
 	
+- Upon clicking the "Ok" button, the cloning will start and you will see a message similar to one shown below.
+	
 .. figure:: _static/tgclone3.png
     :align: center	
+	
+- You will now see that the repository has been cloned successfully in the path you provided.
 	
 .. figure:: _static/tgclone4.png
     :align: center	
