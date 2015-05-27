@@ -22,3 +22,6 @@ Git major features over subversion
 - Branch Handling
 - Performance (Speed of Operation)​
 - Smaller Space Requirements
+
+.. figure:: _static/puttygen1.png
+    :align: center
