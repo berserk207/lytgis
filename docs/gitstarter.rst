@@ -70,4 +70,21 @@ The following illustrates the steps:
 .. figure:: _static/puttygen6.png
     :align: center	
 	
+Cloning a new Repository	
+------------------------
+
+Using Tortoisegit
+~~~~~~~~~~~~~~~~~	
+
+.. figure:: _static/tgclone1.png
+    :align: center	
+	
+.. figure:: _static/tgclone2.png
+    :align: center	
+	
+.. figure:: _static/tgclone3.png
+    :align: center	
+	
+.. figure:: _static/tgclone4.png
+    :align: center	
 	
