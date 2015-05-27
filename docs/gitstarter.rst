@@ -96,3 +96,31 @@ Using Tortoisegit
 .. figure:: _static/tgclone4.png
     :align: center	
 	
+Committing and Pushing	
+----------------------
+
+.. figure:: _static/commit1.png
+    :align: center	
+
+.. figure:: _static/commit2.png
+    :align: center	
+
+.. figure:: _static/commit3.png
+    :align: center	
+
+.. figure:: _static/commit4.png
+    :align: center	
+
+.. figure:: _static/commit5.png
+    :align: center	
+
+.. figure:: _static/commit6.png
+    :align: center		
+	
+
+Branching
+---------
+
+Merging
+-------
+	
