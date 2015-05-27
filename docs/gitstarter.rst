@@ -34,9 +34,29 @@ Purpose
 Puttygen is a tool that you can use to convert private keys into different formats.
 You can also use this tool to generate a public key from a given private key.
 
-Steps
-~~~~~
+Convert Private Key
+~~~~~~~~~~~~~~~~~~~
+You will receive a private key from JP that is using the RSA format. In order to use it in Tortoisegit, you need to convert it to OpenSSH format first. 
+
+The following illustrates the steps:
+
+Open puttgen
 .. figure:: _static/puttygen1.png
     :align: center
+	
+.. figure:: _static/puttygen2.png
+    :align: center
+
+.. figure:: _static/puttygen3.png
+    :align: center
+
+.. figure:: _static/puttygen4.png
+    :align: center
+
+.. figure:: _static/puttygen5.png
+    :align: center
+
+.. figure:: _static/puttygen6.png
+    :align: center	
 	
 	
