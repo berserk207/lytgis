@@ -40,10 +40,12 @@ You will receive a private key from JP that is using the RSA format. In order to
 
 The following illustrates the steps:
 
-Open puttgen
+- Open puttgen
 
 .. figure:: _static/puttygen1.png
     :align: center
+
+- Go to File, then "Load Private Key"
 	
 .. figure:: _static/puttygen2.png
     :align: center
