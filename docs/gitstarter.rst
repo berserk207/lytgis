@@ -36,29 +36,37 @@ You can also use this tool to generate a public key from a given private key.
 
 Convert Private Key
 ~~~~~~~~~~~~~~~~~~~
-You will receive a private key from JP that is using the RSA format. In order to use it in Tortoisegit, you need to convert it to OpenSSH format first. 
+You will receive a private key from JP that is using the RSA format. In order to use it in Tortoisegit, you need to convert it to OpenSSH format first using Puttygen. 
 
 The following illustrates the steps:
 
-- Open puttgen
+- Open puttygen. Puttygen is included when installing Tortoisegit.
 
 .. figure:: _static/puttygen1.png
     :align: center
 
-- Go to File, then "Load Private Key"
+- Go to File, then "Load Private Key".
 	
 .. figure:: _static/puttygen2.png
     :align: center
 
+- Select your private key. The private key provided by JP is usually named after you (e.g. christian.gabo).	
+	
 .. figure:: _static/puttygen3.png
     :align: center
 
+- Click the "Save private key button".	
+	
 .. figure:: _static/puttygen4.png
     :align: center
+	
+- Choose the location where you want to save the private key. You can name it whatever you want. 	
 
 .. figure:: _static/puttygen5.png
     :align: center
 
+- A file with *.ppk extension is then generated. You can now use this files to access git repositories using Tortoisegit.
+	
 .. figure:: _static/puttygen6.png
     :align: center	
 	
