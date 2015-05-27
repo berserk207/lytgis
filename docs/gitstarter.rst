@@ -41,6 +41,7 @@ You will receive a private key from JP that is using the RSA format. In order to
 The following illustrates the steps:
 
 Open puttgen
+
 .. figure:: _static/puttygen1.png
     :align: center
 	
