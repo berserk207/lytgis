@@ -20,6 +20,7 @@ Contents:
 .. toctree::
    :caption: Yii Guides
 
+   mainconfig
    yiicronjob
 
 Indices and tables
