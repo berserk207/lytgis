@@ -16,6 +16,7 @@ Contents:
    gitflow
    codereview
 
+.. toctree::
    :caption: Yii Guides
 
    yiicronjob

@@ -93,7 +93,7 @@ Now, let's create a simple console command.
 
 Let’s test this out in the command prompt. You can even see usage information via yiic help greeter
 
-.. figure:: _static/screenshots/branches.png
+.. figure:: _static/greeter-command.png
 
 To set this console command to run as a cron job, we need to insert this in crontab::
 
