@@ -92,7 +92,7 @@ It is expected that after a code review, the following minimal outputs are given
 Final Notes
 ~~~~~~~~~~~
 
-This guideline should help us have the right mindset when it comes to conducting code reviews. The code review aims to improve the quality of the product by identifying the possible improvements, prevent future defects and help the developer grow in terms of coding skills. This is not an avenue for blaming and it does not aim to create a battleground to know who the best developer is. We are the ones who will benefit from these reviews so we should commit to making it work well for us.
+This guideline should help us have the right mindset when it comes to conducting code reviews. The code review aims to improve the quality of the product by identifying the possible improvements, prevent future defects and help the developer grow in terms of coding skills. This is not an avenue for blaming and it does not aim to create a battleground to know who the best developer is. We are the ones who will benefit from these reviews so we should commit to making it work well for us::
 
 
     Just remember these lines:
@@ -119,7 +119,7 @@ General
 #. Do loops have a set length and correct termination conditions?
 #. Can any of the code be replaced with php functions?
 
-    #. ie. a block of code that can be done using php's native function like array_merge()
+    #.1 ie. a block of code that can be done using php's native function like array_merge()
 
 #. Can any logging or debugging code be removed?
 #. Are all data inputs checked (for the correct type, length, format, and range) and encoded?
