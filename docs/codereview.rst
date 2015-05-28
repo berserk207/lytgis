@@ -66,7 +66,7 @@ Before conducting a code review, a participant should have the right mindset. Pa
 **For Both Authors and Reviewers:**
 
 - **Code Reviews are NOT problem solving meetings.** While it's purpose is to find problems, solving it is not one of its goals.
-Stick to the coding standards. Make sure to follow a coding standard. Having none will lead to wasted time and messed up / unorganized reviews.
+- **Stick to the coding standards.** Make sure to follow a coding standard. Having none will lead to wasted time and messed up / unorganized reviews.
 - **Cultivate a harmonious mood.** Having the right mindset, code reviews can be fun and insightful.
 
 Documents Needed
@@ -119,7 +119,7 @@ General
 #. Do loops have a set length and correct termination conditions?
 #. Can any of the code be replaced with php functions?
 
-    * ie. a block of code that can be done using php's native function like array_merge()
+    #. ie. a block of code that can be done using php's native function like array_merge()
 
 #. Can any logging or debugging code be removed?
 #. Are all data inputs checked (for the correct type, length, format, and range) and encoded?
