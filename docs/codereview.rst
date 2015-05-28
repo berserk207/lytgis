@@ -117,10 +117,7 @@ General
 #. Does it adhre to mvc standards?
 #. Is there any commented out code?
 #. Do loops have a set length and correct termination conditions?
-#. Can any of the code be replaced with php functions?
-
-    #.1 ie. a block of code that can be done using php's native function like array_merge()
-
+#. Can any of the code be replaced with php functions? ie. a block of code that can be done using php's native function like array_merge()
 #. Can any logging or debugging code be removed?
 #. Are all data inputs checked (for the correct type, length, format, and range) and encoded?
 #. Are errors being caught?
@@ -407,3 +404,5 @@ MVC
         * Cron rule: * /15 * * * * cd /var/www/html/path-to-rjph/rjPhProtected && php yiic.php chatterRandomCheck initiateCheck
         * 5.4.1.2 http://192.168.11.51/svn/backend/shque01/rjph/rjPhProtected/commands/EmailQueueCommand.php
         * Cron rule: * * * * * cd /var/www/html/path-to-rjph/rjPhProtected && php yiic.php emailqueue send
+
+    * Check :ref:`yiicronjob` for more details

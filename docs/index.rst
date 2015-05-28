@@ -16,6 +16,10 @@ Contents:
    gitflow
    codereview
 
+   :caption: Yii Guides
+
+   yiicronjob
+
 Indices and tables
 ==================
 
