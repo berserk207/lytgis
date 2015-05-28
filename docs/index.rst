@@ -15,6 +15,7 @@ Contents:
    gitstarter
    gitflow
    codereview
+   vagrant
 
 .. toctree::
    :caption: Yii Guides
