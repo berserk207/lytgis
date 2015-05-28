@@ -103,13 +103,13 @@ Vagrant commands
 vagrant up
 ~~~~~~~~~~
 
-.. figure:: _static/vagrant-up.png
+.. figure:: _static/vagrant/vagrant-up.png
 
 
 vagrant status
 ~~~~~~~~~~~~~~
 
-.. figure:: _static/vagrant-status.png
+.. figure:: _static/vagrant/vagrant-status.png
 
 
 vagrant halt 
@@ -118,13 +118,13 @@ vagrant halt
 "vagrant halt" stops all machines
 "vagrant halt [machine]" stops the specific machine
 
-.. figure:: _static/vagrant-halt.png
+.. figure:: _static/vagrant/vagrant-halt.png
 
 
 vagrant destroy
 ~~~~~~~~~~~~~~~
 
-.. figure:: _static/vagrant-destroy.png
+.. figure:: _static/vagrant/vagrant-destroy.png
 
 
 vagrant box list
@@ -132,7 +132,7 @@ vagrant box list
 
 Shows all base boxes that you have downloaded.
 
-.. figure:: _static/vagrant-box-list.png
+.. figure:: _static/vagrant/vagrant-box-list.png
 
 
 vagrant reload
@@ -142,7 +142,7 @@ vagrant reload
 
 "vagrant reload [machine]" reloads/reboots specific machine
 
-.. figure:: _static/vagrant-reload.png
+.. figure:: _static/vagrant/vagrant-reload.png
 
 
 
